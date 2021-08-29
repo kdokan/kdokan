@@ -1,10 +1,12 @@
-# Hi! I'm K. Dokan
+# K. Dokan's GitHub
 
-I'm Kyushu Univ. 2nd master's student.
+I'm K. Dokan! 
+Kyushu Univ. 2nd master's student.
 
 
 # My Links
 - [My lab webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)
+- [My Publication](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab128/6237890)
 
 <!--
 **kdokan/kdokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
