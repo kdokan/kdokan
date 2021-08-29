@@ -1,6 +1,7 @@
 # K. Dokan's GitHub
 
-I'm K. Dokan!\n
+I'm K. Dokan!
+
 I'm Kyushu Univ. 2nd master's student.
 
 
