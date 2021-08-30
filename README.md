@@ -1,6 +1,6 @@
 # K. Dokan's GitHub
 
-Welocom to K. Dokan's GitHub! <br>I'm Kyushu Univ. 2nd master's student.
+Welocom to K. Dokan's GitHub! <br>I'm 2nd grade master's student in Kyushu Univ..
 
 
 # My Links
