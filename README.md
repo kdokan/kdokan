@@ -2,6 +2,8 @@
 
 Welocom to K. Dokan's GitHub! <br>I'm 2nd grade master's student in Kyushu Univ..
 
+# Certificate
+Grade 2 Japan Statistical Society Certificate
 
 # My Links
 - [My lab webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)
