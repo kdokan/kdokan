@@ -2,8 +2,13 @@
 
 Welocom to K. Dokan's GitHub! <br>I'm 2nd grade master's student in Kyushu Univ..
 
+#  My background
+2013 La Salle high school <br>
+2016 Kyushu Univ. Department of science <br>
+2020 Kyushu Univ. Grad. School of System Life Science (present)
+
 # Certificate
-Grade 2 Japan Statistical Society Certificate
+Japan Statistical Society Certificate Grade 2 
 
 # My Links
 - [My lab webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)
