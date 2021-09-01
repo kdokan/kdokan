@@ -2,7 +2,7 @@
 
 Welocom to K. Dokan's GitHub! <br>I'm 2nd grade master's student in Kyushu Univ..
 
-#  My background
+#  Education and Training
 2013 La Salle High School <br>
 2016 Kyushu Univ. Department of Biology <br>
 2020 Kyushu Univ. Grad. School of System Life Science (present)
