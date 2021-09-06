@@ -12,7 +12,7 @@ Japan Statistical Society Certificate Grade 2
 
 # My Links
 - [My lab webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)
-- [My Publication (K. Dokan et al. 2021 Genes:Genomes:Genetics)](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab128/6237890)
+- [My Publication (K. Dokan et al. 2021 G3)](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab128/6237890)
 
 <!--
 **kdokan/kdokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
