@@ -11,8 +11,8 @@ Welocom to K. Dokan's GitHub! <br>I'm 2nd grade master's student in Kyushu Univ.
 Japan Statistical Society Certificate Grade 2 
 
 # My Links
-- [My lab webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)
-<br> ### My Publication
+- [My lab webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)<br> 
+### My Publication
 - [K. Dokan et al. 2021 G3](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab128/6237890)
 
 <!--
