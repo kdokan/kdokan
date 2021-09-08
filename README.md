@@ -15,6 +15,7 @@ Japan Statistical Society Certificate Grade 2
 ### My Publication
 - [K. Dokan et al. 2021 G3](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab128/6237890)<br>
 ### Presentation
+1.道菅公大郎、河村瑳友、手島康介: バイアスを含んだデータのFSTへの影響. 第92回日本遺伝学会大会、2021年9月8-10日. (口演)
 2.道菅公大郎、河村瑳友、手島康介: 集団構造推論におけるアサートメントバイアスの影響. 第93回日本遺伝学会大会、2021年9月8-10日. (口演)
 
 <!--
