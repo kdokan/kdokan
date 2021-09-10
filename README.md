@@ -1,6 +1,6 @@
 # K. Dokan's GitHub
 
-Welocom to K. Dokan's GitHub! <br>I'm 2nd grade master's student in Kyushu Univ..<br>I will become a data scientist and marketing researcher.
+Welocom to K. Dokan's GitHub! <br>I'm 2nd grade master's student in Kyushu Univ..<br>I aspire to be a data scientist and marketing researcher.
 
 #  Education and Training
 2013 La Salle High School <br>
