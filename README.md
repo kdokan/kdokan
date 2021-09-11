@@ -8,7 +8,7 @@ Welocom to K. Dokan's GitHub! <br>I'm 2nd grade master's student in Kyushu Univ.
 2020- Kyushu Univ. Grad. School of System Life Science (present)
 
 # Certificate
-統計検定 2級あい 
+統計検定 2級
 
 # My Links
 - [My Lab Webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)<br> 
