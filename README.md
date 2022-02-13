@@ -1,19 +1,22 @@
 # K. Dokan's GitHub
 
-Welocom to K. Dokan's GitHub! <br>I'm 2nd grade master's student in Kyushu Univ..<br>I aspire to be a data scientist.
+リサーチャー×データアナリストを目指す修士2年です。
+九州大学で理論集団遺伝学の研究を行っています。
 
-#  Education and Training
-2013- La Salle High School <br>
-2016- Kyushu Univ. Department of Biology <br>
-2020- Kyushu Univ. Grad. School of System Life Science (present)
+#  経歴
+2013- ラ・サール高校 <br>
+2016- 九州大学 理学部生物学科 <br>
+2020- 九州大学 システム生命科学府 (指導教官：手島康介) (present)
 
-# Certificate
-統計検定 2級 (2021.7 取得)
+# 資格
+統計検定 2級
 
 # My Links
-- [My Lab Webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)<br> 
+- [研究室 Webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)<br> 
 
-### My Publication
+# 研究活動
+
+### Publication
 (1) K. Dokan, S. Kawamura, K. M. Teshima. Effects of single nucleotide polymorphism ascertainment on population structure inferences, G3 (2021). [doi](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab128/6237890)<br>
 
 ### Presentation
