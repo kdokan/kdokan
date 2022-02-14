@@ -14,7 +14,7 @@
 # My Links
 - [研究室 Webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)<br> 
 
-# 研究活動
+# 研究業績
 
 ### Publication
 (1) K. Dokan, S. Kawamura, K. M. Teshima. Effects of single nucleotide polymorphism ascertainment on population structure inferences, G3 (2021). [doi](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab128/6237890)<br>
