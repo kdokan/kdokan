@@ -16,7 +16,7 @@
 - [研究室 Webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)<br> 
 - Instagram<br>
 - Twitter<br>
-- facebook<br>
+- Facebook<br>
 
 # 研究業績
 
