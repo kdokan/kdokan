@@ -19,7 +19,7 @@
 - Instagram<br>
 - Twitter<br>
 - [Facebook](https://www.facebook.com/profile.php?id=100073172141752)<br>
-- [出身研究室 Webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)<br> 
+- [手島研究室 Webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)<br> 
 
 # 研究業績(大学院時)
 
