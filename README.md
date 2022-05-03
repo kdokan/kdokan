@@ -7,7 +7,7 @@
 生物進化シミュレータを活用し、生物の進化史とゲノム多様性パターンの関係性を研究。 <br>
 使用言語はPython。<br>
 
-- 趣味<br>
+- 趣味・好きなもの<br>
 広島東洋カープ、キングダム、焼肉
 
 #  経歴
@@ -21,9 +21,6 @@
 統計検定 2級
 
 # My Links
-- Instagram<br>
-- Twitter<br>
-- [Facebook](https://www.facebook.com/profile.php?id=100073172141752)<br>
 - [手島研究室 Webpage](http://www.biology.kyushu-u.ac.jp/~kteshima/)<br> 
 
 # 研究業績(大学院時)
